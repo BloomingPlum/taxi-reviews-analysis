@@ -5,8 +5,6 @@ This project analyzes and classifies taxi service reviews using Natural Language
 ## Project Structure
 
 - `data/` — Contains raw and cleaned taxi review datasets.
-- `results/` — Stores model checkpoints and training artifacts.
-- `results_role/` — Stores checkpoints for the role classification model.
 - `utils.py` — Utility functions for metrics and model explainability.
 - `1.EDA.ipynb` — Exploratory Data Analysis of the dataset.
 - `2.Bert_sentiment_analysis.ipynb` — Sentiment classification using BERT.
